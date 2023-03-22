@@ -19,7 +19,6 @@ int print_sign(int n)
 	else
 	{
 		_putchar(45);
-		_putchar(49);
 		return (-1);
 	}
 	_putchar('\n');
