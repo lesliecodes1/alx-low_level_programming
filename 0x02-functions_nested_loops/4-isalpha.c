@@ -2,6 +2,7 @@
 /**
  * _isalpha - returns 1 if alphabet,
  * 0 otherwise
+ * @c: input variable
  * Return: 1 for alphabet, 0 the rest
  */
 int _isalpha(int c)
