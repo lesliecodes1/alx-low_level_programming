@@ -21,7 +21,7 @@ prints a square
 prints the numbers from 1 to 100; for multiples of three print Fizz; for the multiples of five print Buzz; For numbers which are multiples of both three and five print FizzBuzz    
 <h4>Task 10</h4>     
 prints a triangle   
-<h4>Task 11</h4>    
+<h4>Task 100</h4>    
 prints the largest prime factor of the number 612852475143   
-<h4>Task 12</h4>   
+<h4>Task 101</h4>   
 prints an integer
