@@ -10,4 +10,5 @@
 <h4>0x04-more_functions_nested_loops</h4>    
 <h4>0x05_pointers_arrays_strings</h4>    
 <h4>0x06-pointers_arrays_strings</h4>     
+<h4>0x07-pointers_arrays_strings</h4>
 
