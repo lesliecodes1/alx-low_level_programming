@@ -5,7 +5,7 @@
  * main - prints name of source file compiled from
  * Return: success
  */
-int main()
+int main(void)
 {
 	printf("%s\n", __FILE__);
 	return (0);
