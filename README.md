@@ -18,3 +18,4 @@
 <h4>0x0C-more_malloc_free</h4>
 <h4>0x0D-preprocessor</h4>
 <h4>0x0E-structures_typedef</h4>
+<h4>0x0F-function_pointers</h4>
