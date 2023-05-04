@@ -22,3 +22,4 @@
 <h4>0x10-variadic_functions</h4>
 <h4>0x12-singly_linked_lists</h4>
 <h4>0x13-more_singly_linked_lists</h4>
+<h4>0x14-bit_manipulation</h4>
