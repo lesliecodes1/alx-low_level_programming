@@ -9,7 +9,8 @@
  */
 int create_file(const char *filename, char *text_content)
 {
-	int filedes = open(filename, O_WRONLY | O_CREAT | O_TRUNC, S_IRUSR | S_IWUSR);
+	int filedes = open(filename, O_CREAT | O_TRUNC | O_WRONLY);
+	fchmod(filename, 0600);
 	ssize_t wr = write(filedes, text_content, strlen(text_content));
 
 	if (filename == NULL)
