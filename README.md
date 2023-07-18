@@ -24,3 +24,5 @@
 <h4>0x13-more_singly_linked_lists</h4>
 <h4>0x14-bit_manipulation</h4>
 <h4>0x15-file_io</h4>
+<h4>0x16-Simple Shell</h4>
+
